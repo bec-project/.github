@@ -1,6 +1,6 @@
-
-![BEC-General-App (2)](https://github.com/user-attachments/assets/788d109a-ef48-437e-b6a5-7bb30955cf44)
-
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/788d109a-ef48-437e-b6a5-7bb30955cf44" width="400"></img>
+ </p>
 <!--
 
 **Here are some ideas to get you started:**
